@@ -1,5 +1,7 @@
 # The Anchoring Paradox: Pricing and Trust in Pakistan’s E-Commerce Market
 
+Dataset Used: https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset?resource=download
+
 ### Project Overview
 
 Standard economic theory suggests that the **Anchoring Effect** is a universal driver of sales. This is the idea that consumers "anchor" to a high original price, making a lower sale price feel like a bargain. However, in markets with low institutional trust, this logic can fail.
